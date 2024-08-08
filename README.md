@@ -1,4 +1,4 @@
-## Проект «FurnituresPosts» для «АВК-ГРУПП»
+## Приложение «FurnituresPosts» для «АВК-ГРУПП»
 
 #### URL:
 
